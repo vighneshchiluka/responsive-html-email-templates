@@ -1,24 +1,75 @@
-# Responsive HTML Email Templates
+# 📧 Responsive HTML Email Templates
 
-A collection of responsive HTML email templates built using HTML5 and CSS3 with table-based layouts. These templates follow email development best practices, including responsive design, inline CSS where appropriate, and compatibility with major email clients.
+A collection of responsive HTML email templates built using **HTML5**, **CSS3**, and **table-based layouts**. These templates follow email development best practices, including responsive design, email client compatibility, and testing with **Mailchimp**.
 
-## Features
+---
 
-- Responsive email layouts
-- Table-based HTML structure
+## 📸 Project Preview
+
+### Mailchimp Preview
+
+![Mailchimp Preview](screenshots/mailchimp-preview.png)
+
+---
+
+### Gmail Test Email
+
+![Gmail Preview](screenshots/gmail-preview.png)
+
+---
+
+### Source Code (VS Code)
+
+![VS Code Preview](screenshots/vscode-preview.png)
+
+---
+
+## ✨ Features
+
+- Responsive HTML email layouts
+- Table-based email structure
 - Mobile-friendly design
-- Promotional, Newsletter, and Welcome email templates
+- Cross-email-client compatible
 - Mailchimp compatible
-- Cross-email-client best practices
 - Tested by importing into Mailchimp and sending test emails
+- Clean and reusable email template structure
 
-## Technologies Used
+---
+
+## 📂 Templates
+
+- Promotional Email Template
+
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - Table-based Email Layouts
 - Mailchimp
 
-## Purpose
+---
 
-This repository showcases my HTML email development skills and serves as a collection of responsive email templates for learning and portfolio purposes.
+## 🧪 Testing
+
+This project was tested by:
+
+- Importing the HTML template into **Mailchimp**
+- Sending a real test email
+- Verifying the rendering in **Gmail**
+- Checking responsive behavior in the Mailchimp Preview
+
+---
+
+## 🎯 Purpose
+
+This repository showcases my HTML email development skills and serves as a collection of responsive email templates for learning, practice, and portfolio purposes.
+
+---
+
+## 📌 Author
+
+**Vighnesh Chiluka**
+
+Frontend Developer | HTML • CSS • JavaScript • React • PHP • WordPress
