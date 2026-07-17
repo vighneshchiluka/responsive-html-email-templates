@@ -11,13 +11,11 @@ A collection of responsive HTML email templates built using HTML5, CSS3, and tab
 ![VS Code](screenshots/vscode-preview.png)
 
 ---
-
 ### 📬 Mailchimp Preview
 
 ![Mailchimp Preview](screenshots/mailchimp-preview.png)
 
 ---
-
 ### 📧 Gmail Test Email
 
 ![Gmail Preview](screenshots/gmail-email-preview.png)
