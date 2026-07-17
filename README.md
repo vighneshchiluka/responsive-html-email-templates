@@ -1,48 +1,41 @@
 # 📧 Responsive HTML Email Templates
 
-A collection of responsive HTML email templates built using **HTML5**, **CSS3**, and **table-based layouts**. These templates follow email development best practices, including responsive design, email client compatibility, and testing with **Mailchimp**.
+A collection of responsive HTML email templates built using HTML5, CSS3, and table-based layouts. Tested with Mailchimp for email client compatibility.
 
 ---
 
-## 📸 Project Preview
+## 📸 Project Screenshots
 
-### Mailchimp Preview
+### 💻 Source Code
+
+![VS Code](screenshots/vscode-preview.png)
+
+---
+
+### 📬 Mailchimp Preview
 
 ![Mailchimp Preview](screenshots/mailchimp-preview.png)
 
 ---
 
-### Gmail Test Email
+### 📧 Gmail Test Email
 
-![Gmail Preview](screenshots/gmail-preview.png)
-
----
-
-### Source Code (VS Code)
-
-![VS Code Preview](screenshots/vscode-preview.png)
+![Gmail Preview](screenshots/gmail-email-preview.png)
 
 ---
 
 ## ✨ Features
 
-- Responsive HTML email layouts
-- Table-based email structure
-- Mobile-friendly design
-- Cross-email-client compatible
-- Mailchimp compatible
-- Tested by importing into Mailchimp and sending test emails
-- Clean and reusable email template structure
+- Responsive HTML Email Layout
+- Table-based Structure
+- Mobile Friendly
+- Mailchimp Compatible
+- Cross Email Client Best Practices
+- Tested by Sending Real Test Emails
 
 ---
 
-## 📂 Templates
-
-- Promotional Email Template
-
----
-
-## 🛠️ Technologies Used
+## 🛠 Technologies
 
 - HTML5
 - CSS3
@@ -51,25 +44,6 @@ A collection of responsive HTML email templates built using **HTML5**, **CSS3**,
 
 ---
 
-## 🧪 Testing
-
-This project was tested by:
-
-- Importing the HTML template into **Mailchimp**
-- Sending a real test email
-- Verifying the rendering in **Gmail**
-- Checking responsive behavior in the Mailchimp Preview
-
----
-
 ## 🎯 Purpose
 
-This repository showcases my HTML email development skills and serves as a collection of responsive email templates for learning, practice, and portfolio purposes.
-
----
-
-## 📌 Author
-
-**Vighnesh Chiluka**
-
-Frontend Developer | HTML • CSS • JavaScript • React • PHP • WordPress
+This repository showcases my HTML email development skills and demonstrates the complete workflow of building, importing into Mailchimp, and testing responsive email templates.
