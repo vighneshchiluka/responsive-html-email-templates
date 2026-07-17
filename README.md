@@ -21,7 +21,6 @@ A collection of responsive HTML email templates built using HTML5, CSS3, and tab
 ![Gmail Preview](screenshots/gmail-email-preview.png)
 
 ---
-
 ## ✨ Features
 
 - Responsive HTML Email Layout
